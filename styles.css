@@ -1,8 +1,10 @@
 h1 {
     font-weight: bold;
-    color: gold;
+    color: black;
     font-size: 50px;
     text-align: center;
+    text-decoration-style: solid;
+    text-decoration-line: inherit;
 }
 
 button {
@@ -13,3 +15,16 @@ button {
     border-image-outset: 10px;
     font-size: 20px;
 }
+
+body, html {
+    height: 100%;
+  }
+  
+  .bg {
+    background-image: url("recipes/recipe.jpg");
+  
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
