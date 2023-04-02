@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(206, 114, 160);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  img {
+    aspect: ratio 50px;;
+  }
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color:rgb(204, 143, 174);
+}
+
+h3 {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+  }
+
+  h2 {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+  }
+  ul {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  ol {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
